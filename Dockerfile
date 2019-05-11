@@ -30,5 +30,6 @@ RUN apt-get update &&\
     chmod +x entrypoint.sh &&\
     mv entrypoint.sh /bin
 
+
 ## When the container starts, make sure it runs the script
 ENTRYPOINT ["entrypoint.sh"]
