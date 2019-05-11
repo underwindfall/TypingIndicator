@@ -2,9 +2,15 @@
 
 This is an android library to help developer showing a pending status in instant messaging applications.
 
+## Import library
+
+```groovy
+implementation 'com.qifan.typingIndicator:typingIndicator:0.1.0'
+```
+
 ## ScreenShots
 
-![Screenshots](art/screenshot.gif)
+ <img src="art/screenshot.gif" width="200px" />
 
 ## Example Usage
 
