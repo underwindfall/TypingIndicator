@@ -7,10 +7,12 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
-    <TextView
+    <com.qifan.library.ChatTypingIndicatorView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:minHeight="36dp"
+            android:padding="10dp"
+            android:background="@drawable/message_background"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
