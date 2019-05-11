@@ -3,7 +3,7 @@
 buildscript {
     ext.kotlin_version = '1.3.31'
     ext.bintray_version = '0.9.1'
-    ext.publish_version = '0.1.0'
+    ext.publish_version = '0.1.1'
     repositories {
         google()
         jcenter()
