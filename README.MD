@@ -1,6 +1,6 @@
 # TypingIndicator
 
-This is an android library to help developer showing a pending status in instant messaging applications.
+一个轻量级的优化聊天正在回复界面的工具
 
 ## Import library
 
