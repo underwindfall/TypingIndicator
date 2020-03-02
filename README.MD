@@ -1,6 +1,6 @@
 # TypingIndicator
 
-一个轻量级的优化聊天正在回复界面的工具
+A lib will showing something like typing indicator.
 
 ## Import library
 
